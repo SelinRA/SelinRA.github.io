@@ -1,7 +1,7 @@
 body{
     background-image: url("../Afbeeldingen/backgroundimage.jpg");
     background-repeat: no-repeat;
-    background-color: white;
+    background-color: #0D0D0D;
     background-size: cover;
     margin: 10px 20px 20px 20px;
 }
