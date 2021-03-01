@@ -74,7 +74,7 @@ let chart2 = new Chart (myChart2, {
 } )
 
 let labels3 = ['1', '2', '3', '4', '5', '6', '7', '8', '9', '10'];
-let data3 = [99, 90, 78, 79, 81, 39, 52, 70, 75, 45];
+let data3 = [99, 90, 78, 79, 81, 69, 52, 70, 75, 45];
 let color3 = ['#7478B6'];
 let myChart3 = document.getElementById("myChart3").getContext('2d');
 
